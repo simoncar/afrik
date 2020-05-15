@@ -1,0 +1,127 @@
+[
+  {
+    "title": "Family",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat ",
+    "attributes": [
+      {
+        "name": "Car Parking",
+        "option": "3 (2 Secure Stacker, 1 Driveway)"
+      },
+      {
+        "name": "ENTRY",
+        "option": "Secure Pin"
+      },
+      {
+        "name": "Bedroom 1",
+        "option": "KING or 2 SINGLES"
+      },
+      {
+        "name": "LIFT ",
+        "option": "Yes"
+      }
+    ],
+    "image": "/assets/images/L1.jpg"
+  },
+  {
+    "title": "3 Day",
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit a",
+    "attributes": [
+      {
+        "name": "Bedroom 2",
+        "option": "KING or 2 SINGLES"
+      },
+      {
+        "name": "Bedroom 3 - Master",
+        "option": "KING"
+      },
+      {
+        "name": "Master",
+        "option": "En suite "
+      },
+      {
+        "name": "Laundry",
+        "option": "WASHER AND DRYER "
+      },
+      {
+        "name": "LIFT ",
+        "option": "Yes"
+      }
+    ],
+    "image": "/assets/images/L2.jpg",
+    "position": "left"
+  },
+  {
+    "title": "5 Day",
+    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum r",
+    "attributes": [
+      {
+        "name": "KITCHEN",
+        "option": "99"
+      },
+      {
+        "name": "LIVING",
+        "option": "TV"
+      },
+      {
+        "name": "DINING",
+        "option": "8 seat table"
+      },
+      {
+        "name": "DECK",
+        "option": "Yes"
+      },
+      {
+        "name": "LIFT ",
+        "option": "Yes"
+      }
+    ],
+    "image": "/assets/images/L3.jpg"
+  },
+  {
+    "title": "Adventure",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exerci",
+    "attributes": [
+      {
+        "name": "STUDY",
+        "option": "DESK"
+      },
+      {
+        "name": "BEDDING",
+        "option": "DAY BED"
+      },
+      {
+        "name": "ENTERTAINMENT",
+        "option": "BBQ"
+      },
+      {
+        "name": "DECK",
+        "option": "Seating 6"
+      },
+      {
+        "name": "LIFT ",
+        "option": "Yes"
+      }
+    ],
+    "image": "/assets/images/L4.jpg",
+    "position": "left"
+  },
+  {
+    "title": "Luxury",
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit ",
+    "attributes": [
+      {
+        "name": "ENTERTAINMENT",
+        "option": ""
+      },
+      {
+        "name": "UMBRELLA",
+        "option": ""
+      },
+      {
+        "name": "PRIVACY",
+        "option": ""
+      }
+    ],
+    "image": "/assets/images/L5.jpg"
+  }
+]
